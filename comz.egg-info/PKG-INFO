@@ -1,0 +1,29 @@
+Metadata-Version: 1.0
+Name: comz
+Version: 1.6
+Summary: python source code obfuscator. only obfuscator
+Home-page: https://github.com/Sazxt/comz
+Author: Sazxt
+Author-email: karuma1363@gmail.com
+License: MIT
+Description: 
+        comz python only obfuscator
+        # How to Install 
+        $ git clone https://github.com/Sazxt/comz
+        $ cd comz
+        $ pip2 install .
+        $ comz --help or comz -h
+        
+        # compile Standar 
+        $ comz -i file -c 1 -o outfile
+        
+        # Parsing
+        -i : file input
+        -c : compile script number 1 ~ 26
+        -e : compile python header
+        -o : outfile saving
+        -t : show code obfuscator
+        
+        
+Keywords: encode,uno,pvp,obfus
+Platform: UNKNOWN

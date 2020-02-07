@@ -1,0 +1,17 @@
+README.txt
+comz.py
+setup.py
+comz/__init__.py
+comz/command.py
+comz/comz.py
+comz/datasav.py
+comz/flucyboxy.py
+comz/obfus.py
+comz/only_run.py
+comz/tempestment.py
+comz.egg-info/PKG-INFO
+comz.egg-info/SOURCES.txt
+comz.egg-info/dependency_links.txt
+comz.egg-info/entry_points.txt
+comz.egg-info/not-zip-safe
+comz.egg-info/top_level.txt

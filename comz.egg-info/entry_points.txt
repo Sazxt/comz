@@ -1,0 +1,3 @@
+[console_scripts]
+comz = comz.only_run:com
+
